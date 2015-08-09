@@ -5,5 +5,5 @@ class Constant
 	FOLDER_NAME = 'suites'	
 	INPUT_FILE_NAME = 'input.rb'
  	
- 	API_URL = 'http://plrs-s-mng.devsep.com/apis/conversions/get'
+ 	API_URL = ''
 end
